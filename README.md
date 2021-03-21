@@ -1,0 +1,2 @@
+# MockJson
+Data for log
