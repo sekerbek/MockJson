@@ -10,8 +10,18 @@
     "name": "Valheim",
     "price" : "2650 tg",
     "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg?t=1615295984"
+  },
+    {
+    "name": "Counter-Strike",
+    "price" : "6450 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1490530/header.jpg?t=1607398164"
+  },
+    {
+    "name": "Red Dead Redemption 2",
+    "price" : "13 399 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1615608871"
   }
-]
+  ]
 }
 
   
