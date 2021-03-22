@@ -4,6 +4,14 @@
   "id": 1, 
   "email" : "sekerbekdariya@gmail.com" ,
   "password" : "Dariya0301" }
+], 
+  "item": [
+    {
+    "name": "Valheim",
+    "price" : "2650 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg?t=1615295984"
+  }
 ]
 }
 
+  
