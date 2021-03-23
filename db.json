@@ -20,7 +20,32 @@
     "name": "Red Dead Redemption 2",
     "price" : "13 399 tg",
     "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1615608871"
-  }
+  },
+    {
+    "name": "CS:GO",
+    "price" : "6450 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/subs/54029/header_586x192.jpg?t=1612757199"
+  },
+     {
+    "name": "Assassin's Creed",
+    "price" : "7043 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/header_russian.jpg?t=1602601042"
+  },
+     {
+    "name": "Among Us",
+    "price" : "3376 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg?t=1611793703"
+  },
+     {
+    "name": "Horizon Zero Dawn",
+    "price" : "6000 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg?t=1614274164"
+  },
+     {
+    "name": "The Sims 4",
+    "price" : "23 100 tg",
+    "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg?t=1614944793"
+  },
   ]
 }
 
